@@ -1,0 +1,3 @@
+H:/C++/AlgorithmBasicCourse/quick_choose/cmake-build-debug/CMakeFiles/quick_choose.dir
+H:/C++/AlgorithmBasicCourse/quick_choose/cmake-build-debug/CMakeFiles/edit_cache.dir
+H:/C++/AlgorithmBasicCourse/quick_choose/cmake-build-debug/CMakeFiles/rebuild_cache.dir
